@@ -1,2 +1,2 @@
-i like astral.cool!!!
+i like astral.cool!
 Hi
