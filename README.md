@@ -8,11 +8,6 @@
 <img src="https://discord.c99.nl/widget/theme-1/527325769064644619.png">
 </p>
 
-<h1>
-<h1 align="center">
-Expzr
-  </h1>
-
 <p>
 <p align="center">
 I put my repos on private
