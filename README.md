@@ -1,6 +1,6 @@
 <p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/528402384259645440/908535215125831690/ezgif.com-gif-maker.gif">
+<img src="https://cdn.discordapp.com/attachments/528402384259645440/908535215125831690/ezgif.com-gif-maker.gif"  width="400" height="400"/>
 </p>
 
 <p>
@@ -8,9 +8,14 @@
 <img src="https://discord.c99.nl/widget/theme-1/527325769064644619.png">
 </p>
 
+<h1>
+<h1 align="center">
+Expzr
+  </h1>
+
 <p>
 <p align="center">
-I do stuff
+I put my repos on private
 </p>
 
 <table>
