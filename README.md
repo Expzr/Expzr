@@ -5,7 +5,7 @@
 
 <p>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-1/527325769064644619.png">
+<a href="https://discord.com/users/273524398483308549"><img src="https://lanyard.cnrad.dev/api/527325769064644619"></a>
 </p>
 
 <p>
