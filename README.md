@@ -16,7 +16,7 @@ I put my repos on private
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Expzr&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=Expzr&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Expzr&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
