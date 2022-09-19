@@ -1,6 +1,6 @@
 <p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/528402384259645440/908535215125831690/ezgif.com-gif-maker.gif"  width="400" height="400"/>
+<img src="https://cdn.discordapp.com/attachments/528402384259645440/1021255589118103722/tenor_5.gif"  width="400" height="400"/>
 </p>
 
 <p>
